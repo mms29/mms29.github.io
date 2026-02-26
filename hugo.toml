@@ -1,8 +1,1 @@
-baseURL = "https://mms29.github.io/"
-languageCode = "en-us"
-title = "Remi Vuillemot"
-theme = "PaperMod"
-
-[author]
-  name = "Remi Vuillemot"
-  homepage = "https://mms29.github.io"
+theme = 'ananke'
