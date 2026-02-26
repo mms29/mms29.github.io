@@ -1,0 +1,4 @@
+baseURL = 'https://mms29.github.io/'
+languageCode = 'en-us'
+title = "Rémi Vuillemot"
+theme = "PaperMod"
