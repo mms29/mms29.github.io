@@ -1,1 +1,50 @@
-theme = 'ananke'
+baseURL = "https://mms29.github.io/"
+title = "Remi Vuillemot"
+theme = "ananke"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+
+  [languages.fr]
+    languageName = "Français"
+    weight = 2
+
+# English menu
+[[languages.en.menu.main]]
+name = "Projects"
+url = "/en/projects/"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "CV"
+url = "/en/cv/"
+weight = 2
+
+[[languages.en.menu.main]]
+name = "Papers"
+url = "/en/papers/"
+weight = 3
+
+# French menu
+[[languages.fr.menu.main]]
+name = "Projets"
+url = "/fr/projects/"
+weight = 1
+
+[[languages.fr.menu.main]]
+name = "CV"
+url = "/fr/cv/"
+weight = 2
+
+[[languages.fr.menu.main]]
+name = "Publications"
+url = "/fr/papers/"
+weight = 3
+
+[params]
+  showLanguages = true
+
