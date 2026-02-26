@@ -1,4 +1,4 @@
-baseURL = 'https://mms29.github.io/'
-languageCode = 'en-us'
-title = "Rémi Vuillemot"
+baseURL = "https://mms29.github.io/"
+languageCode = "en-us"
+title = "My Research Site"
 theme = "PaperMod"
