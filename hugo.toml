@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "Remi Vuillemot"
 theme = "PaperMod"
 
-[Author]
+[author]
   name = "Remi Vuillemot"
-  # Optional
   homepage = "https://mms29.github.io"
-  email = "rvuillemot@gmail.com"
