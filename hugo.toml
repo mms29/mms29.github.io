@@ -1,7 +1,7 @@
 baseURL = "https://mms29.github.io/"
 title = "Remi Vuillemot"
 theme = "ananke"
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 enableRobotsTXT = true
 
 [languages]
@@ -15,25 +15,25 @@ enableRobotsTXT = true
 
 # English menu
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Personal projects"
 url = "/en/projects/"
-weight = 1
+weight = 2
 
 [[languages.en.menu.main]]
 name = "CV"
 url = "/en/cv/"
-weight = 2
+weight = 1
 
 [[languages.en.menu.main]]
-name = "Papers"
+name = "research papers"
 url = "/en/papers/"
 weight = 3
 
 # French menu
 [[languages.fr.menu.main]]
-name = "Projets"
+name = "Projets personnels"
 url = "/fr/projects/"
-weight = 1
+weight = 2
 
 [[languages.fr.menu.main]]
 name = "CV"
@@ -41,7 +41,7 @@ url = "/fr/cv/"
 weight = 2
 
 [[languages.fr.menu.main]]
-name = "Publications"
+name = "Publications de recherche"
 url = "/fr/papers/"
 weight = 3
 
