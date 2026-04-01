@@ -16,33 +16,33 @@ enableRobotsTXT = true
 # English menu
 [[languages.en.menu.main]]
 name = "Personal projects"
-url = "/en/projects/"
+url = "/projects"
 weight = 2
 
 [[languages.en.menu.main]]
 name = "CV"
-url = "/en/cv/"
+url = "/cv"
 weight = 1
 
 [[languages.en.menu.main]]
 name = "research papers"
-url = "/en/papers/"
+url = "/papers"
 weight = 3
 
 # French menu
 [[languages.fr.menu.main]]
 name = "Projets personnels"
-url = "/fr/projects/"
+url = "/projects"
 weight = 2
 
 [[languages.fr.menu.main]]
 name = "CV"
-url = "/fr/cv/"
+url = "/cv"
 weight = 2
 
 [[languages.fr.menu.main]]
 name = "Publications de recherche"
-url = "/fr/papers/"
+url = "/papers"
 weight = 3
 
 [params]
