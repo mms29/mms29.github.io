@@ -47,4 +47,5 @@ weight = 3
 
 [params]
   showLanguages = true
+  defaultContentLanguageInSubdir = true
 
